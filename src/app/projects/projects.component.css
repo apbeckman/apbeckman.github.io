@@ -1,3 +1,11 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin: 1%;
+}
 .card {
   background:rgb(17, 17, 17);
   min-height:fit-content;
