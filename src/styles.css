@@ -24,7 +24,6 @@ body {
   margin:auto;
   width: 100vw;
   height: 100vh;
-  display: flex;
   background-image: url("./assets/bgblur.png");
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */

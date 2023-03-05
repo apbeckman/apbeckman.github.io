@@ -1,9 +1,9 @@
+h2 {
+  color:white;
+}
 .card {
-  background:rgb(17, 17, 17);
+  background:rgb(20, 20, 20);
   min-height:fit-content;
   padding: 5px;
   margin:2%
-}
-h2 {
-  color:white;
 }

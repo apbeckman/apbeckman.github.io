@@ -1,7 +1,6 @@
 .card {
   background:rgb(17, 17, 17);
   min-height:fit-content;
-  max-width:60rem;
   padding: 2px;
   margin:2%
 }
