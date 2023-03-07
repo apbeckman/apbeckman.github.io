@@ -1,6 +1,9 @@
 .card {
   background:rgb(17, 17, 17);
+  border-color: rgb(70, 70, 70);
   min-height:fit-content;
-  padding: 2px;
-  margin:2%
+}
+.btn-dark {
+  background:rgb(47, 47, 47);
+  border-color: rgb(70, 70, 70);
 }

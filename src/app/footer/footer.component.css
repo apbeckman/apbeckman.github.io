@@ -1,3 +1,7 @@
 footer{
   margin:1%;
 }
+.bi {
+  vertical-align: -.125em;
+  fill: white;
+}

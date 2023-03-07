@@ -1,6 +1,7 @@
 .card {
-  background:rgb(17, 17, 17);
-  min-height:fit-content;
-  padding: 5px;
-  margin:2%
+  max-height:fit-content;
+  background:rgb(27, 27, 27);
+  margin:2%;
+  border-color: rgb(70, 70, 70);
+
 }

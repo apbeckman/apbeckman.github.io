@@ -1,7 +1,9 @@
 /*
  * Globals
  */
-
+iframe {
+  border-radius: 0.5rem;
+}
 
 /* Custom default button */
 .btn-light,
@@ -11,6 +13,13 @@
   text-shadow: none; /* Prevent inheritance from `body` */
 }
 
+.card {
+  border-color: rgb(70, 70, 70);
+
+  max-height:fit-content;
+  background:rgb(32, 32, 32);
+  margin:2%;
+}
 
 /*
  * Base structure

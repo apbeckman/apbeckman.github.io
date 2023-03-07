@@ -10,6 +10,7 @@ import { PythonComponent } from './python/python.component';
 import { AppRoutingModule } from './app-routing.module';
 import { ProjectsComponent } from './projects/projects.component';
 import { ResumeComponent } from './resume/resume.component';
+import { InstagramComponent } from './instagram/instagram.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,9 @@ import { ResumeComponent } from './resume/resume.component';
     TableauComponent,
     PythonComponent,
     ProjectsComponent,
-    ResumeComponent
+    ResumeComponent,
+    InstagramComponent,
+
   ],
   imports: [
     BrowserModule,

@@ -1,7 +1,11 @@
 .card {
   background:rgb(17, 17, 17);
-  min-height:fit-content;
   max-height:fit-content;
-  padding: 5px;
-  margin:2%
+  border-color: rgb(70, 70, 70);
+
+}
+.btn-dark {
+  background:rgb(47, 47, 47);
+  border-color: rgb(70, 70, 70);
+
 }
